@@ -71,3 +71,14 @@ The goal is to provide the **Chief Marketing Officer (CMO)** with data-driven in
 - Expand through **supermarkets, online retail, and digital ads**.  
 
 ---
+
+
+## 🔗 LinkedIn Post
+[👉 View my LinkedIn Project Post](your-linkedin-post-url-here)
+
+---
+
+## 👩‍💻 Author
+**Yashika Jaiswal**  
+- Aspiring Data Analyst | Skilled in SQL, Power BI, Tableau, Python  
+- [LinkedIn](https://www.linkedin.com/in/yashika-jaiswal-486288249/)
