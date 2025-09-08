@@ -35,8 +35,7 @@ The goal is to provide the **Chief Marketing Officer (CMO)** with data-driven in
 
 ## 📷 Dashboard Preview
 ### Home Page
-![Homepage](<"https://github.com/user-attachments/assets/ae52fa91-1ba4-405d-9ef0-41bcd26a117f" />
-)
+![Homepage](<img src="https://github.com/user-attachments/assets/ae52fa91-1ba4-405d-9ef0-41bcd26a117f" alt="Homepage" width="700"/>)
 
 ### Demographics
 ![Demographics]()
