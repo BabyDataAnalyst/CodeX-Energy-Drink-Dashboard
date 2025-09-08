@@ -37,20 +37,20 @@ The goal is to provide the **Chief Marketing Officer (CMO)** with data-driven in
 ### Home Page
 ![Homepage](https://github.com/user-attachments/assets/ae52fa91-1ba4-405d-9ef0-41bcd26a117f)
 
-### Demographics
-![Demographics]()
-
 ### Performance
-![Performance]()
+![Performance](https://github.com/user-attachments/assets/97693c14-3967-4347-ac97-443142681a20)
+
+### Demographics
+![Demographics](https://github.com/user-attachments/assets/3cdeeae1-856e-42b4-bd2d-7472a7b49d29)
 
 ### Customer Preferences
-![Preferences]()
+![Preferences](https://github.com/user-attachments/assets/24af916f-633d-4afd-b395-29f73dccd080)
 
 ### Purchasing Behavior
-![Purchasing]()
+![Purchasing](https://github.com/user-attachments/assets/f0c1ee83-e3a2-4941-8e6e-f8bd423279da)
 
 ### Recommendations
-![Recommendations]()
+![Recommendations](https://github.com/user-attachments/assets/dbf44ec8-2fa5-4e18-9ffa-9375312abd34)
 
 ---
 
