@@ -35,8 +35,7 @@ The goal is to provide the **Chief Marketing Officer (CMO)** with data-driven in
 
 ## 📷 Dashboard Preview
 ### Home Page
-![Homepage](<img width="1262" height="702" alt="Screenshot 2025-09-08 123906" src="https://github.com/user-attachments/assets/edd4e239-4d70-40d0-9926-e7b26aa2a8fa" />
-)
+![Homepage]("C:\Users\HP\OneDrive\Pictures\Screenshots\Homepage.png")
 
 ### Demographics
 ![Demographics]()
@@ -72,5 +71,3 @@ The goal is to provide the **Chief Marketing Officer (CMO)** with data-driven in
 - Expand through **supermarkets, online retail, and digital ads**.  
 
 ---
-
-## 📂 Repository Structure
